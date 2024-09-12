@@ -1,0 +1,25 @@
+.toggle-container {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  z-index: 1000;
+}
+
+body.dark {
+  --background-color: #3e2723; /* Dark brown background */
+  --primary-color: #d32f2f;    /* Bright red for text (contrast) */
+  --secondary-color: #795548;  /* Medium brown for secondary text */
+  --accent-color: #ff5722;     /* Light brown/orange accent */
+  --button-background-color: #6d4c41; /* Medium brown for buttons */
+  --button-text-color: #ffffff;       /* White text on buttons */
+}
+
+/* Light Mode: Blue and Black color scheme */
+body.light {
+  --background-color: #000000;  /* Black background */
+  --primary-color: #ffffff;     /* White text */
+  --secondary-color: #0000ff;   /* Blue for secondary text */
+  --accent-color: #0000ff;      /* Blue accent for links and buttons */
+  --button-background-color: #0000ff; /* Blue button background */
+  --button-text-color: #ffffff;       /* White text on buttons */
+}
