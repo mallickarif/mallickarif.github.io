@@ -1,5 +1,6 @@
 import React from "react";
-import Wanderlust from "../assets/Wanderlust.png";
+// import Wanderlust from "../assets/Wanderlust.png";/
+import wanderlust from "../assets/wanderlust.png";
 import Weatherapp from "../assets/weather.jpg";
 import Spotifyclone from "../assets/Spotify.jpg";
 import simongame from "../assets/simons.jpeg";
@@ -10,7 +11,7 @@ const Portfolio = () => {
   
       {
         id: 1,
-        src: Wanderlust,
+        src: wanderlust,
         title: "Wanderlust",
         techStack:"HTML| CSS| NODEJS| EXPRESS| MONGODB",
         desc: "This is Airbnb website with multiple features like booking, geolocation.",
