@@ -1,5 +1,6 @@
 import React from "react";
-import html from "../assets/html.png";
+// import html from "../assets/html.png";
+import html from "../assets/HTML.png";
 import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/React.png";
