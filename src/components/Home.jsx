@@ -3,7 +3,8 @@ import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 // import { Link } from "react-scroll";
 // import arifimage from "../assets/arifimg.jpg";
 import arifimage from "../assets/arifimg.jpg";
-import resume from "../assets/arifresume.pdf";
+// import resume from "../assets/arifresume.pdf";
+import resume from "../assets/Md_Arif_Eqbal_updatedCV._.pdf";
 
 const Home = () => {
     return (

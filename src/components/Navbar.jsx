@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link, Events, animateScroll as scroll, scrollSpy } from "react-scroll";
-import resume from "../assets/arifresume.pdf";
+// import resume from "../assets/arifresume.pdf";
+import resume from "../assets/Md_Arif_Eqbal_updatedCV._.pdf";
 
 const NavBar = () => {
     const [nav, setNav] = useState(false);
@@ -80,10 +81,10 @@ const NavBar = () => {
               className="nav-links px-4 cursor-pointer capitalize font-weight:500  text-black-500 hover:scale-105 hover:text-sky-900 duration-200 link-underline"
             >
               <a
-                href={"https://drive.google.com/file/d/1hj3Vzb3DPR1Rf4QxWep96cJHVHl39mQm/view?usp=sharing"}
+                href={"https://drive.google.com/file/d/159oJP21oW2SDyS7yiCqFnDU0xKPVSqzO/view?usp=drive_link"}
                 target="_blank" rel="noreferrer"
               >
-                resume
+                resume 
               </a>
             </li>
           </ul>
