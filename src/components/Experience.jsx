@@ -20,9 +20,10 @@ const Experience = () => {
             <p className='text-xl'>Key Responsibilities:</p>
             <ul className="list-disc ml-8 text-lg leading-loose">
               <li>As a backend developer responsible for creating REST APIs. Design and implement server-side logic.</li>
-              <li>Optimize database queries for performance, using Indexing. </li>
-              <li>Expertise in Optimizing web applications.</li>
-              <li>Developed the implementation of CI/CD pipelines, to optimize the development.</li>
+              <li>Assisting in bug fixing and issues resolution by client's. </li>
+              <li>Developing and maintaining features based on clients requirements and specifications. </li>
+              <li>Participating in code reviews, testing, and documentation to
+              ensure code quality and project Integrity.</li>
               <li>Worked with Client's and project teams to understand the needs and provide features that helps attracting the customer's and more revenue.</li>
             </ul>
           </div>
