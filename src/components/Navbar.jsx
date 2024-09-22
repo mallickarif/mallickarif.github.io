@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link, Events, animateScroll as scroll, scrollSpy } from "react-scroll";
 // import resume from "../assets/arifresume.pdf";
-import resume from "../assets/Md_Arif_Eqbal_updatedCV._.pdf";
+import resume from "../assets/arifresume.pdf";
 
 const NavBar = () => {
     const [nav, setNav] = useState(false);
@@ -84,7 +84,7 @@ const NavBar = () => {
                 href={"https://drive.google.com/file/d/159oJP21oW2SDyS7yiCqFnDU0xKPVSqzO/view?usp=drive_link"}
                 target="_blank" rel="noreferrer"
               >
-                resume 
+                resume
               </a>
             </li>
           </ul>
