@@ -82,7 +82,7 @@ const NavBar = () => {
               className="nav-links px-4 cursor-pointer capitalize font-weight:500  text-black-500 hover:scale-105 hover:text-sky-900 duration-200 link-underline"
             >
               <a
-                href={"https://drive.google.com/file/d/1c3sDksPXYa-eRC2XlX5y_zxRHqRanysG/view?usp=sharing"}
+                href={"https://drive.google.com/file/d/1c3sDksPXYa-eRC2XlX5y_zxRHqRanysG/view?usp=sharing"} 
                 target="_blank" rel="noreferrer"
               >
                 resume

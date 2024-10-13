@@ -5,6 +5,7 @@ import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import arifimage from "../assets/arifimg.jpg";
 // import resume from "../assets/arifresume.pdf";
 // import resume from "../assets/arifresume.pdf";
+// import resume from "../assets/arifresume.pdf.pdf";
 import resume from "../assets/arifresume.pdf.pdf";
 
 const Home = () => {
